@@ -1,6 +1,49 @@
 <GAME>
   <LOGIN>
     <USERNAME>Karan</USERNAME>
-    <PASSWORD>zoro</PASSWORD>
+    <PASSWORD>{psp</PASSWORD>
   </LOGIN>
+  <BOARD>
+    <CREATOR>Karan</CREATOR>
+    <BOARDNAME>Compsci</BOARDNAME>
+    <DIMENSIONS>15</DIMENSIONS>
+    <Word>BINARY</Word>
+    <Word>DECIMAL</Word>
+    <Word>HEXADECIMAL</Word>
+    <Word>INTEGER</Word>
+    <Word>FLOAT</Word>
+    <Word>BOOLEAN</Word>
+    <Word>ARRAY</Word>
+    <Word>STRING</Word>
+  </BOARD>
+  <LOGIN>
+    <USERNAME>Mukesh</USERNAME>
+    <PASSWORD>234</PASSWORD>
+  </LOGIN>
+  <BOARD>
+    <CREATOR>Mukesh</CREATOR>
+    <BOARDNAME>Sport</BOARDNAME>
+    <DIMENSIONS>20</DIMENSIONS>
+    <Word>FOOTBALL</Word>
+    <Word>HOCKEY</Word>
+    <Word>ROWING</Word>
+    <Word>BADMINTON</Word>
+    <Word>TENNIS</Word>
+    <Word>FIVES</Word>
+  </BOARD>
+  <LOGIN>
+    <USERNAME>eidos</USERNAME>
+    <PASSWORD>fjept:</PASSWORD>
+  </LOGIN>
+  <BOARD>
+    <CREATOR>eidos</CREATOR>
+    <BOARDNAME>trial</BOARDNAME>
+    <DIMENSIONS>20</DIMENSIONS>
+    <Word>PRAY</Word>
+    <Word>FRIEND</Word>
+    <Word>HELLO</Word>
+    <Word>WEATHER</Word>
+    <Word>ATMOSPHERE</Word>
+    <Word>LENNON</Word>
+  </BOARD>
 </GAME>
